@@ -9,7 +9,7 @@
       "homeTeamAbbr": "BAL",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "awayProbablePitcherId": "641778",
@@ -20,7 +20,7 @@
       "homeTeamAbbr": "PIT",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "awayProbablePitcherId": "801139",
@@ -31,7 +31,7 @@
       "homeTeamAbbr": "TB",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "awayProbablePitcherId": "671737",
@@ -42,7 +42,7 @@
       "homeTeamAbbr": "DET",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "awayProbablePitcherId": "668678",
@@ -53,7 +53,7 @@
       "homeTeamAbbr": "MIA",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "awayProbablePitcherId": "543037",
@@ -64,7 +64,7 @@
       "homeTeamAbbr": "CLE",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "awayProbablePitcherId": "554430",
@@ -75,7 +75,7 @@
       "homeTeamAbbr": "TOR",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "awayProbablePitcherId": "669160",
@@ -86,7 +86,7 @@
       "homeTeamAbbr": "NYM",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "awayProbablePitcherId": "543135",
@@ -97,18 +97,18 @@
       "homeTeamAbbr": "KC",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "awayProbablePitcherId": "656550",
       "awayTeamAbbr": "ATL",
       "gameDate": "2026-06-09T23:40:00Z",
       "gamePk": "824591",
-      "homeProbablePitcherId": "607200",
+      "homeProbablePitcherId": "685126",
       "homeTeamAbbr": "CWS",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Final"
     },
     {
       "awayProbablePitcherId": "607067",
@@ -119,7 +119,7 @@
       "homeTeamAbbr": "COL",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "Game Over"
     },
     {
       "awayProbablePitcherId": "678906",
@@ -130,7 +130,7 @@
       "homeTeamAbbr": "LAA",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "awayProbablePitcherId": "695505",
@@ -141,7 +141,7 @@
       "homeTeamAbbr": "SD",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "awayProbablePitcherId": "674841",
@@ -152,7 +152,7 @@
       "homeTeamAbbr": "SF",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "In Progress"
     },
     {
       "awayProbablePitcherId": "688107",
@@ -163,13 +163,13 @@
       "homeTeamAbbr": "ATH",
       "season": 2026,
       "slateDate": "2026-06-09",
-      "status": "Scheduled"
+      "status": "In Progress"
     }
   ],
   "metadata": {
     "cacheSource": "backend/statcast_sync.py",
-    "createdAtEpochMs": 1781026625412,
-    "generatedAtUtc": "2026-06-09T17:37:05.412295+00:00",
+    "createdAtEpochMs": 1781063825642,
+    "generatedAtUtc": "2026-06-10T03:57:05.642073+00:00",
     "rowCount": 15,
     "season": 2026,
     "slateDate": "2026-06-09",
