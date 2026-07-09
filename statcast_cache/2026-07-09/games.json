@@ -1,0 +1,158 @@
+{
+  "games": [
+    {
+      "awayProbablePitcherId": "693821",
+      "awayTeamAbbr": "ATL",
+      "gameDate": "2026-07-09T16:35:00Z",
+      "gamePk": "823359",
+      "homeProbablePitcherId": "656605",
+      "homeTeamAbbr": "PIT",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "In Progress"
+    },
+    {
+      "awayProbablePitcherId": "608379",
+      "awayTeamAbbr": "KC",
+      "gameDate": "2026-07-09T17:10:00Z",
+      "gamePk": "823606",
+      "homeProbablePitcherId": "640455",
+      "homeTeamAbbr": "NYM",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "In Progress"
+    },
+    {
+      "awayProbablePitcherId": "621112",
+      "awayTeamAbbr": "NYY",
+      "gameDate": "2026-07-09T17:10:00Z",
+      "gamePk": "822954",
+      "homeProbablePitcherId": "656876",
+      "homeTeamAbbr": "TB",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "In Progress"
+    },
+    {
+      "awayProbablePitcherId": "656849",
+      "awayTeamAbbr": "CHC",
+      "gameDate": "2026-07-09T17:35:00Z",
+      "gamePk": "824816",
+      "homeProbablePitcherId": "669432",
+      "homeTeamAbbr": "BAL",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "In Progress"
+    },
+    {
+      "awayProbablePitcherId": "668909",
+      "awayTeamAbbr": "CLE",
+      "gameDate": "2026-07-09T17:40:00Z",
+      "gamePk": "823683",
+      "homeProbablePitcherId": "641927",
+      "homeTeamAbbr": "MIN",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "In Progress"
+    },
+    {
+      "awayProbablePitcherId": "663776",
+      "awayTeamAbbr": "BOS",
+      "gameDate": "2026-07-09T18:10:00Z",
+      "gamePk": "824577",
+      "homeProbablePitcherId": "641743",
+      "homeTeamAbbr": "CWS",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "In Progress"
+    },
+    {
+      "awayProbablePitcherId": "678022",
+      "awayTeamAbbr": "ATH",
+      "gameDate": "2026-07-09T22:40:00Z",
+      "gamePk": "824251",
+      "homeProbablePitcherId": "664285",
+      "homeTeamAbbr": "DET",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "Scheduled"
+    },
+    {
+      "awayProbablePitcherId": "682243",
+      "awayTeamAbbr": "SEA",
+      "gameDate": "2026-07-09T22:40:00Z",
+      "gamePk": "823846",
+      "homeProbablePitcherId": "676083",
+      "homeTeamAbbr": "MIA",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "Scheduled"
+    },
+    {
+      "awayProbablePitcherId": "666200",
+      "awayTeamAbbr": "PHI",
+      "gameDate": "2026-07-09T23:10:00Z",
+      "gamePk": "824494",
+      "homeProbablePitcherId": "663903",
+      "homeTeamAbbr": "CIN",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "Scheduled"
+    },
+    {
+      "awayProbablePitcherId": "701656",
+      "awayTeamAbbr": "MIL",
+      "gameDate": "2026-07-09T23:45:00Z",
+      "gamePk": "823034",
+      "homeProbablePitcherId": "669467",
+      "homeTeamAbbr": "STL",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "Scheduled"
+    },
+    {
+      "awayProbablePitcherId": "672282",
+      "awayTeamAbbr": "LAA",
+      "gameDate": "2026-07-10T00:05:00Z",
+      "gamePk": "822877",
+      "homeProbablePitcherId": "543135",
+      "homeTeamAbbr": "TEX",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "Scheduled"
+    },
+    {
+      "awayProbablePitcherId": "518876",
+      "awayTeamAbbr": "ARI",
+      "gameDate": "2026-07-10T01:40:00Z",
+      "gamePk": "823277",
+      "homeProbablePitcherId": "656288",
+      "homeTeamAbbr": "SD",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "Scheduled"
+    },
+    {
+      "awayProbablePitcherId": "663372",
+      "awayTeamAbbr": "COL",
+      "gameDate": "2026-07-10T01:45:00Z",
+      "gamePk": "823201",
+      "homeTeamAbbr": "SF",
+      "season": 2026,
+      "slateDate": "2026-07-09",
+      "status": "Scheduled"
+    }
+  ],
+  "metadata": {
+    "cacheSource": "backend/statcast_sync.py",
+    "createdAtEpochMs": 1783620905484,
+    "generatedAtUtc": "2026-07-09T18:15:05.484262+00:00",
+    "rowCount": 13,
+    "season": 2026,
+    "slateDate": "2026-07-09",
+    "source": "MLB Stats API schedule + pybaseball Statcast ingestion",
+    "statcastPrimary": "pybaseball",
+    "statcastSupplemental": "Baseball Savant CSV endpoints for unsupported raw fields",
+    "syncStatus": "loaded"
+  }
+}
