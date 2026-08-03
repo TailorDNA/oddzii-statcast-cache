@@ -10939,6 +10939,7 @@
       "season": 2026,
       "slateDate": "2026-08-03",
       "sweetSpotRate": 50.0,
+      "teamAbbr": "WSH",
       "whiffRate": 0.0,
       "xBA": 0.42,
       "xSLG": 0.572,
@@ -12702,8 +12703,8 @@
   ],
   "metadata": {
     "cacheSource": "backend/statcast_sync.py",
-    "createdAtEpochMs": 1785764876034,
-    "generatedAtUtc": "2026-08-03T13:47:56.034755+00:00",
+    "createdAtEpochMs": 1785793077190,
+    "generatedAtUtc": "2026-08-03T21:37:57.190734+00:00",
     "rowCount": 611,
     "season": 2026,
     "slateDate": "2026-08-03",

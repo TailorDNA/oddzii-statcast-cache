@@ -1,6 +1,7 @@
 {
   "games": [
     {
+      "awayProbablePitcherId": "674841",
       "awayTeamAbbr": "WSH",
       "gameDate": "2026-08-03T22:40:00Z",
       "gamePk": "823431",
@@ -8,7 +9,7 @@
       "homeTeamAbbr": "PHI",
       "season": 2026,
       "slateDate": "2026-08-03",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "awayProbablePitcherId": "700241",
@@ -19,7 +20,7 @@
       "homeTeamAbbr": "NYY",
       "season": 2026,
       "slateDate": "2026-08-03",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "awayProbablePitcherId": "696149",
@@ -30,9 +31,10 @@
       "homeTeamAbbr": "MIL",
       "season": 2026,
       "slateDate": "2026-08-03",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
+      "awayProbablePitcherId": "680736",
       "awayTeamAbbr": "LAD",
       "gameDate": "2026-08-04T00:05:00Z",
       "gamePk": "824647",
@@ -40,17 +42,18 @@
       "homeTeamAbbr": "CHC",
       "season": 2026,
       "slateDate": "2026-08-03",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "awayProbablePitcherId": "657277",
       "awayTeamAbbr": "SF",
       "gameDate": "2026-08-04T00:05:00Z",
       "gamePk": "822867",
+      "homeProbablePitcherId": "615698",
       "homeTeamAbbr": "TEX",
       "season": 2026,
       "slateDate": "2026-08-03",
-      "status": "Scheduled"
+      "status": "Pre-Game"
     },
     {
       "awayProbablePitcherId": "669456",
@@ -88,8 +91,8 @@
   ],
   "metadata": {
     "cacheSource": "backend/statcast_sync.py",
-    "createdAtEpochMs": 1785764876034,
-    "generatedAtUtc": "2026-08-03T13:47:56.034755+00:00",
+    "createdAtEpochMs": 1785793077190,
+    "generatedAtUtc": "2026-08-03T21:37:57.190734+00:00",
     "rowCount": 8,
     "season": 2026,
     "slateDate": "2026-08-03",
